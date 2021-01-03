@@ -1,0 +1,65 @@
+/************* Base Style *************/
+* {
+    font-family: 'Courier New', Courier, monospace;
+    
+  }
+  
+  /** Header **/
+  #header-nav {
+    background-color: beige;
+  }
+  
+  .navbar-brand h2{
+    color:black;
+    font-weight:bold;
+    font-size: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  #nav-list {
+    margin-top: 5px;
+  }
+  
+  #nav-list a {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    background-color: khaki;
+    
+  }
+  
+  #nav-list a:hover {
+    background: greenyellow;
+  }
+  
+  #nav-list a span {
+    font-size: 2em;
+  }
+  
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid black;
+  }
+  
+  button:hover {
+    background: yellow;
+  }
+  
+  /** body **/
+
+  body {
+    background-color: bisque;
+  }
+  h1 {
+    font-weight: bold;
+    font-size:230%;
+  }
+  
+  h4 {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+ 
+  
+  
